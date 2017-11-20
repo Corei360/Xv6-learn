@@ -19,6 +19,8 @@
 # }
 
 #include "memlayout.h"
+#include "mmu.h"
+#incluce "param.h"
 
 # Multiboot header. Data to direct multiboot loader.
 .p2align 2
